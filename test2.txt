@@ -1,7 +1,6 @@
 hwofosjflks j s 
 
-<<<<<<< HEAD
 edit from offline
-=======
+
 edit from online
->>>>>>> beac367f77be80a3c43a5a5de7cb9715f54d07cb
+
