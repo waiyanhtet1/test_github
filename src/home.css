@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+.home-wrapper {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}

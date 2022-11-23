@@ -1,0 +1,28 @@
+.video-detail {
+    flex: 6;
+}
+
+.video-detail--frame {
+    width: 100%;
+    height: 100%;
+}
+
+.video-detail--container {
+    padding: 20px;
+    box-shadow: 3px -5px 78px -22px rgba(0,0,0,0.61);
+    -webkit-box-shadow: 3px -5px 78px -22px rgba(0,0,0,0.61);
+    -moz-box-shadow: 3px -5px 78px -22px rgba(0,0,0,0.61);
+}
+
+.video-detail--title {
+    font-size: 24px;
+}
+
+.video-detail--subtitle{
+margin: 10px 0px;
+font-size: 18px;
+}
+
+.video-detail--description{
+font-size: 15px;
+}
